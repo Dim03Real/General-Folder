@@ -1,0 +1,5 @@
+MBS > Malwarebytes= is primarily a scanner that scans and removes malicious software, including rogue security software, adware, and spyware.
+openhardwaremonitor= Hardware Monitor software.=It is a free and open-source program that allows users to monitor various hardware components of their computer, such as temperature
+Treesize= term used to describe the amount of storage space that a storage directory or folder (and its contents) take up on a computer's hard drive.
+RampMap= sophisticated tool that helps analyze physical memory usage on your computer
+TroubleShooter=Fix problems that block programs from being installed or removed
