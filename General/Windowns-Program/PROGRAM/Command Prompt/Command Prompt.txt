@@ -1,0 +1,9 @@
+-----Spicetify-------------------------
+PowerShell Requested
+Spicetify:iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+-----------------------------
+----------------------------
+Microsoft Activation Script
+PowerShell Requested
+:irm https://get.activated.win/ | iex
+------------------------------------------
