@@ -19,6 +19,7 @@ def start_clicking():
 
 def stop_clicking():
     global clicking
+    clicking = False
     update_ui()
 
 def toggle_clicking():
